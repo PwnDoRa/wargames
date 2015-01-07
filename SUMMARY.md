@@ -2,7 +2,7 @@
 
 This is the summary of this book.
 
-* [Introduction](section0/README.md)
+* [Preface](section0/README.md)
     * [Description](section0/description.md)
     * [Guideline](section0/guideline.md)
     * [Resource](section0/resource.md)
