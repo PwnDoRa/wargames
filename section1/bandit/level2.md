@@ -32,6 +32,8 @@ boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 
 檢查一下家目錄的檔案列表，確實存在名為 - (dash)的檔案。
 
+list all files
+
 ```
 bandit1@melinda:~$ ls -al
 total 24
@@ -44,6 +46,8 @@ drwxr-xr-x 160 root    root    4096 Jul 28 17:05 ..
 ```
 
 我們一樣使用 cat 指令來讀取 - (dash)檔案，但不同的是我們在檔名前加上代表當前目錄的 ”./” ( dot slash )， 以避免特殊字元的影響。
+
+印出可疑的檔案 "-"
 
 ```
 bandit1@melinda:~$ cat ./-
