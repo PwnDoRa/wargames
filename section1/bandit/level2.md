@@ -11,5 +11,5 @@ ls, cd, cat, file, du, find
 
 ### <font color="grey">Helpful Reading Material</font>
 
-> Google Search for “dashed filename” <br />
-> Advanced Bash-scripting Guide - Chapter 3 - Special Characters
+> [Google Search for “dashed filename”](https://www.google.com/search?q=dashed+filename) <br />
+> [Advanced Bash-scripting Guide - Chapter 3 - Special Characters](http://tldp.org/LDP/abs/html/special-chars.html)
