@@ -11,4 +11,4 @@ ls, cd, cat, file, du, find
 
 ### <font color="grey">Helpful Reading Material</font>
 
-> [Google Search for “spaces in filename”]()
+> [Google Search for “spaces in filename”](https://www.google.com/search?q=spaces+in+filename)
