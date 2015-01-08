@@ -14,9 +14,10 @@ The unix commandline: pipes and redirects
 
 ### <font color="grey">Solution</font>
 
-Account: bandit7
-Password: HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
-Host: bandit.labs.overthewire.org
+```
+* Account: bandit7
+* Password: HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+* Host: bandit.labs.overthewire.org
 
 使用上述帳號密碼透過 SSH 登入第七關。
 
