@@ -9,6 +9,6 @@ The password for the next level is stored in a file called spaces in this filena
 
 ls, cd, cat, file, du, find
 
-### Helpful Reading Material
+### <font color="grey">Helpful Reading Material</font>
 
 > [Google Search for “spaces in filename”]()
