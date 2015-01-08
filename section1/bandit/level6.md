@@ -1,6 +1,14 @@
 Bandit Level 5 → Level 6
 ========================
 
+### Level
+
+* Account:    bandit5
+
+* Password:   koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+
+* Host:       bandit.labs.overthewire.org
+
 ### Level Goal
 
 The password for the next level is stored in a file somewhere under the **inhere** directory and has all of the following properties:
