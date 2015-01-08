@@ -16,3 +16,6 @@ Account: bandit9
 Password: UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
 
 Host: bandit.labs.overthewire.org
+
+```$ ssh bandit9@bandit.labs.overthewire.org -p 22
+```bandit9@bandit.labs.overthewire.org's password:UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
