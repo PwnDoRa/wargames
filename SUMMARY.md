@@ -38,4 +38,5 @@ This is the summary of this book.
         * [Level 26](section1/bandit/level26.md)
         * [Level 27](section1/bandit/level27.md)
     * [Leviathan](section1/leviathan.md)
+    * [Krypton](section1/krypton.md)
     * [Natas](section1/natas.md)
