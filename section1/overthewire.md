@@ -9,6 +9,6 @@ To find out more about a certain wargame, just visit its [page](http://overthewi
 
 Suggested order to play the games in
 
-* [Bandit](./bandit.md)
-* [Leviathan](./leviathan.md)
+* [Bandit](bandit.md)
+* [Leviathan](leviathan.md)
 * [Natas](natas.md)
