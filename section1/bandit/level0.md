@@ -11,5 +11,5 @@ ssh
 
 ### <font color="grey">Helpful Reading Material</font>
 
-> [Secure Shell (SSH) on Wikipedia](http://en.wikipedia.org/wiki/Secure_Shell) <br>
+> [Secure Shell (SSH) on Wikipedia](http://en.wikipedia.org/wiki/Secure_Shell) <br />
 > [How to use SSH on wikiHow](http://www.wikihow.com/Use-SSH)
