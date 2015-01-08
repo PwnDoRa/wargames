@@ -9,13 +9,14 @@ This game, like most other games, is organized in levels. You start at Level 0 a
 
 You will encounter many situations in which you have no idea what you are supposed to do. **Don’t panic! Don’t give up!** The purpose of this game is for you to learn the basics. Part of learning the basics, is reading a lot of new information.
 
-There are several things you can try when you are unsure how to continue:
+There are several things you can try when you are unsure how to continue
 
-    First, if you know a command, but don’t know how to use it, try the manual (man page) by entering “man <command>” (without the quotes). e.g. if you know about the “ls” command, type: man ls. The “man” command also has a manual, try it. Press q to quit the man command.
-    Second, if there is no man page, the command might be a shell built-in. In that case use the “help <X>” command. E.g. help cd
+> First, if you know a command, but don’t know how to use it, try the manual (man page) by entering “`man <command>`” (without the quotes). e.g. if you know about the “ls” command, type: man ls. The “man” command also has a manual, try it. Press q to quit the man command.
+> 
+> Second, if there is no man page, the command might be a shell built-in. In that case use the “help <X>” command. E.g. help cd
     Also, your favorite search-engine is your friend. Learn how to use it! I recommend Google.
-
-Lastly, if you are still stuck, you can join us on IRC
+>
+> Lastly, if you are still stuck, you can join us on IRC
 
 
 You’re ready to start! Begin with Level 0, linked at the left of this page. Good luck!
