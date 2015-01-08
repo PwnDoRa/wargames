@@ -3,7 +3,7 @@ Bandit Level 6 → Level 7
 
 ### <font color="grey">Level Goal</font>
 
-The password for the next level is stored somewhere on the server and has all of the following properties: - owned by user bandit7 - owned by group bandit6 - 33 bytes in size
+The password for the next level is stored **somewhere on the server** and has all of the following properties: - owned by user bandit7 - owned by group bandit6 - 33 bytes in size
 
 ### <font color="grey">Commands you may need to solve this level</font>
 
