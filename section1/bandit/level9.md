@@ -26,6 +26,7 @@ bandit9@bandit.labs.overthewire.org's password:
 UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
 ...
 ```
+
 檢查家目錄，確認存在 data.txt 檔案。
 
 ```
@@ -39,5 +40,24 @@ drwxr-xr-x 160 root     root     4096 Jul 28 17:05 ..
 -rw-r-----   1 bandit10 bandit9 19379 Jun  6  2013 data.txt
 ```
 
+這次我們使用 strings 指令印出可讀的 ASCII 文字，再透過 pipes 結合 grep 指令來協助我們尋找 = 開頭的密碼。如此一來，我們即可得到下一關的密碼。
 
+```
+bandit9@melinda:~$ strings data.txt | grep "="
+Rj=G
+========== the
+=qy9g
+,========== passwordc
+========== is
+=9-5
+O=p~
+#r=t!
+7e}=eG
+========== truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
+uXI/{I=VPO=
+6'Q|_=Vt
+:={!
+yd=6
+```
 
+前進下一關！
