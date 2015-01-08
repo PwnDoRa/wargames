@@ -17,6 +17,8 @@ Password: UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
 
 Host: bandit.labs.overthewire.org
 
+使用上述帳號密碼透過 SSH 登入第九關。
+
 ```
 $ ssh bandit9@bandit.labs.overthewire.org -p 22
 ...
