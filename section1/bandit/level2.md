@@ -1,7 +1,7 @@
 Bandit Level 1 → Level 2
 ========================
 
-### Level Goal
+### <font color="grey">Level Goal</font>
 
 The password for the next level is stored in a file called - located in the home directory
 
