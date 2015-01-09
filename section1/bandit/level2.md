@@ -1,24 +1,24 @@
 Bandit Level 1 → Level 2
 ========================
 
-### <font color="grey">Level Goal</font>
+### <font color="grey">Level Goal</font> ###
 
 The password for the next level is stored in a file called - located in the home directory
 
-### <font color="grey">Commands you may need to solve this level</font>
+### <font color="grey">Commands you may need to solve this level</font> ###
 
 ls, cd, cat, file, du, find
 
-### <font color="grey">Helpful Reading Material</font>
+### <font color="grey">Helpful Reading Material</font> ###
 
 > [Google Search for “dashed filename”](https://www.google.com/search?q=dashed+filename) <br />
 > [Advanced Bash-scripting Guide - Chapter 3 - Special Characters](http://tldp.org/LDP/abs/html/special-chars.html)
 
-### Solution
+### Solution ###
 
-    Account: bandit1
-    Password: boJ9jbbUNNfktd78OOpsqOltutMc3MY1
-    Host: bandit.labs.overthewire.org
+> Account: bandit1 <br />
+> Password: boJ9jbbUNNfktd78OOpsqOltutMc3MY1 <br />
+> Host: bandit.labs.overthewire.org
 
 使用上述帳號密碼透過 SSH 登入第一關。
 
@@ -49,6 +49,14 @@ drwxr-xr-x 160 root    root    4096 Jul 28 17:05 ..
 
 印出可疑的檔案 "-"
 
+There is a file named as -. <br />
+In Linux, dash means stdin/stdout, so we have to use absolute path or relative path.
+
+```
+bandit1@melinda:~$ cat /home/bandit1/-
+CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+```
+OR
 ```
 bandit1@melinda:~$ cat ./-
 CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
